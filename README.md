@@ -5,7 +5,7 @@
 ```
 mvn clean compile assembly:single
 
-java -jar target/extract-urls-from-har-1.0-SNAPSHOT.jar -h
+java -jar target/extract-urls-from-har-v1.0.jar -h
 
 usage: help info
  -h,--help        The command help
